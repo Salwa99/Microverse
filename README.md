@@ -1,6 +1,6 @@
 # ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hell Microverse
+# Hello Microverse
 
 > A program that displays  Hello Microverse as a header
 
